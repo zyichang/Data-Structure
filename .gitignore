@@ -1,0 +1,13 @@
+*.scc
+
+# Ignore build workspace
+Build/Workspace/
+
+# Ignore .vs
+.vs/*
+
+# Ignore .log
+*.log
+
+# Ignore .exe
+.exe
