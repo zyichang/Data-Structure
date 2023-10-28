@@ -1,7 +1,7 @@
 *.scc
 
 # Ignore build workspace
-Build/Workspace/
+Build/*
 
 # Ignore .vs
 .vs/*
